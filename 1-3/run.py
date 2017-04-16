@@ -2,7 +2,7 @@
 # 为了 Python3 的兼容，如果你用的 Python2.7
 from __future__ import print_function, division
 import tensorflow as tf
-
+####
 print('Loaded TF version', tf.__version__, '\n\n')
 
 # Tensor 在数学中是“张量”
